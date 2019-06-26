@@ -4,5 +4,6 @@ num2=20
 thank you
 good job
 where are you
+hi2
 hi
 hello
