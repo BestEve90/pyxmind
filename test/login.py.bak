@@ -4,3 +4,9 @@ num2=20
 thank you
 good job
 where are you
+<<<<<<< HEAD
+
+hi
+=======
+hello
+>>>>>>> b84ea131cbc7434e20f83380fbcb795bca4f8cbb
